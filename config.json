@@ -76,6 +76,22 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "slzy": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "森林资源"
+    },
+    "ljzy": {
+      "api": "https://apilj.com/api.php/provide/vod",
+      "name": "辣椒资源"
+    },
+    "91zy": {
+      "api": "https://91md.me/api.php/provide/vod",
+      "name": "91资源"
+    },
+    "mdxy": {
+      "api": "https://www.bt4.cc/api.php/provide/vod",
+      "name": "麻豆资源"
     }
   }
 }
